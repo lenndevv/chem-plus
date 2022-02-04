@@ -12,7 +12,8 @@ Initial release
 
 Planning to do:
 
-* Chemical equation balancing
+* (Proper) Chemical equation balancing
+* Search feature for viewing chemical elements
 
 
 Contact me:
