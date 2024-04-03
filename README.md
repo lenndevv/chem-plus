@@ -20,4 +20,4 @@ Contact me:
 
 Discord: Len#4604
 
-Email for more important stuff: marijus.bauzys5@gmail.com
+This is discontinued indefinitely. Sorry ;-; (2024/04/03)
